@@ -1,5 +1,7 @@
 # PROJECT-STRUKDAT-LIBRARY-SYSTEM
 
+Safiya Nadira Az-zahra 5025251268
+
 Context: The library is at peak season where lots of students are coming in borrowing and returning books. With the high traffic, this system is used to help lessen the burden on the librarian. 
 Here we use: 
 STACK for the return drop box, as the librarian can only get to one at a time to also ensure its being properly taken care of.
