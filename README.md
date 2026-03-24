@@ -64,5 +64,25 @@ If the recommendation shelf gets too old or too crowded, it prints a message sho
 At the very end, it prints the "Final Shelf" showing every book currently on display from left to right.
 
 
+SAMPLE INPUT
 
+5 2 5
+
+101 Math
+
+101 Science
+
+201 Budi Science
+
+102
+
+301 History
+
+
+EXPECTED OUTPUT
+
+
+Waitlist Match! Science assigned to Budi
+
+Final Shelf: History
 
